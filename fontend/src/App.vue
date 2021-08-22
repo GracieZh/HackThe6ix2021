@@ -3,8 +3,8 @@
     <topNav />
     <homeBanner />
     <section3 />
-    <section1 />
-    <section2 />
+    <!--section1 />
+    <section2 /-->
     <footerBar />
   </div>
 </template>
@@ -45,6 +45,19 @@ p,h1,a {
   text-decoration: none;
 }
 
+body::-webkit-scrollbar {
+  width: 1em;
+}
+ 
+body::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  //outline: 1px solid slategrey;
+  border-radius: 10px;
+}
 
 </style>
 

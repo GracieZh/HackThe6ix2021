@@ -1,21 +1,13 @@
 <template>
     <nav class="nav-horizontal">
         <div class="mask">
-            <ul class="list">
-            <li><a href="#">Alpha</a></li>
-            <li><a href="#">Beta</a></li>
-            <li><a href="#">Gamma</a></li>
-            <li><a href="#">Delta</a></li>
-            <li><a href="#">Epsilon</a></li>
-            <li><a href="#">Zeta</a></li>
-            <li><a href="#">Eta</a></li>
-            <li><a href="#">Theta</a></li>
-            <li><a href="#">Iota</a></li>
-            <li><a href="#">Kappa</a></li>
-            <li><a href="#">Lambda</a></li>
-            <li><a href="#">Mu</a></li>
-            <li><a href="#">Nu</a></li>
-            <li><a href="#">Xi</a></li>
+            <ul class="list" style="float: left;">
+              <li><a href="#">Find a Meal</a></li>
+              <li><a href="#">Discover Meals</a></li>
+              <li><a href="#">Top Restaurants</a></li>
+            </ul>
+            <ul class="list" style="float: right; padding-right: 40px;">
+              <li><a href="#">Login / Sign Up</a></li>
             </ul>
         </div>
     </nav>

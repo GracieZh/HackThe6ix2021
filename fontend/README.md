@@ -1,6 +1,6 @@
-# geotab_project
+# Meal Finder
 
-> Entry for the Geotab Challenge at Hack The 6ix 2021.
+> Entry for the BMO Challenge at Hack The 6ix 2021.
 
 ## Build Setup
 

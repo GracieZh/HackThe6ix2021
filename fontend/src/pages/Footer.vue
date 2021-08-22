@@ -1,7 +1,7 @@
 <template>
   <footer>
     <div class="bottom">
-      <p>Hack The 6ix 2021 Submission | Geotab Challenge | Made by <a href="#">Gracie</a>.</p>
+      <p>Hack The 6ix 2021 Submission | BMO Challenge | Made by <a>Gracie</a>.</p>
     </div>
   </footer>
 </template>
